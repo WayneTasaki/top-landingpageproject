@@ -5,3 +5,7 @@ The Odin Project provided two design images to base the landing page off of. The
 
 Here is the design image which I need to replicate:
 ![Design image from The Odin Project](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png)
+
+And here is the live version of what I built: https://waynetasaki.github.io/top-landingpageproject/
+
+I added my name as the header logo and in the footer. This was a fun little exercise in flexbox!
