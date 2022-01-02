@@ -161,9 +161,9 @@ color: #f9faf8;
   padding-bottom: 120px;
 }
 
-/* Footer Section */
+/* Call to Action Section */
 
-footer {
+.ctasection {
   background-color: white;
   display: flex;
   justify-content: center;
@@ -171,5 +171,38 @@ footer {
 
 .ctabox {
   background-color: #3882f6;
+  color: white;
   width: 900px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 85px;
+  margin-bottom: 85px;
+  padding: 40px 20px;
+  border-radius: 10px;
 }
+
+.ctatext1 {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.ctatext2 {
+  font-size: 16px;
+  font-weight: 300;
+  color: #e5e7eb;
+}
+
+.ctabtn {
+  background-color: #3882f6;
+  color: #f9faf8;
+  font-size: 18px;
+  font-weight: 500;
+  width: 125px;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  border-radius: 8px;
+  border: 2px solid white;
+}
+
+/* Footer Section */
