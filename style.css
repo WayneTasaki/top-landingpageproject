@@ -128,7 +128,48 @@ color: #f9faf8;
   font-size: 17px;
   align-self: center;
   margin-top: 10px;
+  margin-bottom: 139px;
 }
 
 /* Quote Section */
 
+.quotesection {
+  background-color: #e5e7eb;
+  padding-top: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.quotewrapper {
+  width: 770px;
+}
+
+.quotetext {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 200;
+}
+
+.attwrapper {
+  width: 800px;
+  display: flex;
+  justify-content: flex-end;
+  font-size: 24px;
+  font-weight: 500;
+  padding-right: 55px;
+  padding-bottom: 120px;
+}
+
+/* Footer Section */
+
+footer {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.ctabox {
+  background-color: #3882f6;
+  width: 900px;
+}
