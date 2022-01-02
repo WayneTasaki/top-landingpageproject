@@ -206,3 +206,17 @@ color: #f9faf8;
 }
 
 /* Footer Section */
+
+footer {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footertext {
+  color: #e5e7eb;
+  font-size: 18px;
+  font-weight: 300;
+}
